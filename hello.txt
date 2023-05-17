@@ -15,3 +15,4 @@ hello.git --- master!
 hello.git --- hot-fix2!
 
 hello.git --- github!
+hello.git --- gitssh!
